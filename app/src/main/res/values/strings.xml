@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Travel Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="religious">Religious</string>
+    <string name="ancient">Ancient</string>
+    <string name="museums">Museums</string>
+    <string name="events">Events</string>
+    <string name="locationPreview">Meaning of travel</string>
+    <string name="captionPreview">is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, or other means, with or without luggage, and can be one way or round trip.[1][2] Travel can also include relatively short stays between successive movements.</string>
+    <string name="alAzhar">Al Azhar Mosque</string>
+    <string name="captionAlAzhar"> (Cairo): This mosque has undergone a number of changes since it was built in A.D. 972 and has been the centerpiece of the Islamic world is most prestigious university since A.D. 988.</string>
+    <string name="babZuweila">Bab Zuweila</string>
+    <string name="captionBabZuweila">(Cairo): This huge gate, which rises out of the thick-packed confusion of a local souk, was one of the original entrances to the Fatimid city of Qahira (Cairo). Its colossal shoulders bear witness to the architectural and military power of the 11th-century founders of this dynasty.</string>
+    <string name="sultanHassan">The Madrasa and mosque of Sultan Hassan</string>
+    <string name="captionSultanHassan">(Cairo): This massive example of Mamluke self-aggrandizement casts a massive shadow over the rundown neighborhood that surrounds it. Yet, from inside, the 14th-century domes and courtyards are gracefully proportioned and somehow human in scale.</string>
+    <string name="mohamedAli">Mohamed Ali Mosque</string>
+    <string name="captionMohamedAli">(Cairo): Its high Ottoman dome gives this mosque a tremendous sense of calm and space, and the view across old Cairo from the courtyard is second to none.</string>
+    <string name="thePyramids">The Pyramids in Giza</string>
+    <string name="captionThePyramids">(Giza): There is no way to come to Egypt and not visit the pyramids. They are as vast and imposing as they were when they were built more than 4 millennia ago, and their impact has not been dimmed by the crowds of tourists and touts.</string>
+    <string name="vallyOfKings">Valley of the Kings</string>
+    <string name="captionVallyOfKings"> (Luxor): Since it was first excavated at the beginning of the 20th century, this steep-sided valley on the west bank in Luxor has long been drawing tourists to its underground complex of richly decorated tombs. There is now a whole industry built on these visitors, and rightly so -- it is a must-see.</string>
+    <string name="templeOfAmun">Temple of Amun</string>
+    <string name="captionTempleOfAmun"> (Siwa): This small, remote temple in the distant western desert oasis is plain and not very well preserved compared to the sites of Luxor and the Giza Plateau, but it does have unparalleled mystique.</string>
+    <string name="saqqara">Saqqara</string>
+    <string name="captionSaqqara"> The setting makes this site even more special than its historical significance. Like the pyramids in Giza, it sits on the edge of the desert looking down at the river valley. Whereas the megalopolis of Cairo sits at the foot of the monument at Giza, Saqqara is surrounded by greenery and looks like it might have many millennia ago.</string>
+    <string name="aswanMuseum">The Aswan Museum</string>
+    <string name="captionAswanMuseum"> This tiny museum on the southern end of Elephantine Island in Aswan lost most of its best pieces to the new Nubian Museum and, hence, does not receive many visitors now. But its 19th-century building, the residence of the architect of the Aswan Dam, Sir William Wilcocks, is a museum itself and deserves a visit.</string>
+    <string name="egyptianMuseum">Egyptian Museum</string>
+    <string name="captionEgyptianMuseum"> (Cairo): With a history that goes back to the very beginning of the archaeological exploration of Europe, the collection of antiquities held by the Egyptian Museum is one of the richest and most varied in the world. From Tutankhamun is tomb to the Fayum portraits, there is no way to come to Egypt and miss this one.</string>
+    <string name="luxorMuseum">Luxor Museum</string>
+    <string name="captionLuxorMuseum">It may be smaller than the Egyptian Museum in Cairo, but the Luxor Museum is better lit, better organized, and better documented. Housing an impressive display of ancient Egyptian artifacts, it is not something that you should miss if you are in town.</string>
+    <string name="stCatherinesMonastery">The Museum at St. Catherines Monastery</string>
+    <string name="captionStCatherinesMonastery">This monastery is collection of ancient manuscripts is second in size only to the Vatican. A few of these are on display, as well as some impressive early icons, truly jaw-dropping golden reliquaries, and examples of devotional embroidery.</string>
+    <string name="forum">World Youth Forum - 3 To 6 Nov every year</string>
+    <string name="captionForum">On 25 April 2017, a group of young Egyptians presented an initiative at the National Youth Conference in Ismailia to engage in dialogue with youth around the world. On 24 July 2017, President Abdelfattah El-Sisi officially responded at the Bibliotheca Alexandrina during the National Youth Conference in Alexandria, launching the First World Youth Forum (WYF), which was held in Sharm El-Sheikh in November 2017.</string>
+</resources>
