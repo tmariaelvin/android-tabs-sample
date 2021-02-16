@@ -30,10 +30,10 @@ public class ReligiousFragment extends Fragment {
 
         // Create a list of religious sites.
         ArrayList<LocationInfo> data = new ArrayList<LocationInfo>();
-        data.add(new LocationInfo(R.drawable.al_azhar_mosque, R.string.alAzhar, R.string.captionAlAzhar));
-        data.add(new LocationInfo(R.drawable.zewalla, R.string.babZuweila, R.string.captionBabZuweila));
-        data.add(new LocationInfo(R.drawable.madrassa_of_sultan_hassan, R.string.sultanHassan, R.string.captionSultanHassan));
-        data.add(new LocationInfo(R.drawable.mohamed_ali_mosque, R.string.mohamedAli, R.string.captionMohamedAli));
+        data.add(new LocationInfo(R.drawable.ashta_lakshmi, R.string.ashtaLakshmi, R.string.captionAshtaLakshmi));
+        data.add(new LocationInfo(R.drawable.kapaleeswarar, R.string.parthasarathy, R.string.captionParthasarathy));
+        data.add(new LocationInfo(R.drawable.madrassa_of_sultan_hassan, R.string.kapaleeswarar, R.string.captionKapaleeswarar));
+        data.add(new LocationInfo(R.drawable.mohamed_ali_mosque, R.string.santhome, R.string.captionSanthome));
 
         // Create an {@link customAdapter}, whose data source is a list of {@link LocationInfo}s. The
         // adapter knows how to create list items for each item in the list.
